@@ -1,9 +1,9 @@
 # Spring Boot API Rest
 
-> Criar um projeto base com Spring Initializr:
+> Create a base project with Spring Initializr:
   - https://start.spring.io/
 
 ## :computer: Features
-- Segurança da API
+- API Security
 - Cache
-- Monitoramento
+- Monitoring
